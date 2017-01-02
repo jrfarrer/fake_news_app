@@ -1,0 +1,12 @@
+id|article|type|url
+1|Pope Francis Shocks World, Endorses Donald Trump for President, Releases Statement|Fake|http://www.factcheck.org/2016/10/did-the-pope-endorse-trump/
+2|Donald Trump Sent His Own Plane to Transport 200 Stranded Marines|Fake|http://mediamatters.org/blog/2016/08/11/wash-post-fact-checker-debunks-bogus-story-touted-hannity-about-trump-helping-gulf-war-troops/212329
+3|FBI Agent Suspected in Hillary Email Leaks Found Dead in Apparent Murder-Suicide|Fake|http://www.snopes.com/fbi-agent-murder-suicide/
+4|Donald Trump Protester Speaks Out: “I Was Paid $3,500 to Protest Trump’s Rally”|Fake|http://www.snopes.com/donald-trump-protester-speaks-out/
+5|FBI Director Comey Just Put a Trump Sign on His Front Lawn|Fake|http://www.snopes.com/fbi-director-james-comeys-trump-sign/
+6|Melania Trump’s Girl-on-Girl Photos From Racy Shoot Revealed|Real|http://nypost.com/2016/08/01/melania-trumps-girl-on-girl-photos-from-racy-shoot-revealed/
+7|Barbara Bush: “I Don’t Know How Women Can Vote” for Trump|Real|http://www.washingtontimes.com/news/2016/feb/5/barbara-bush-i-dont-know-how-women-can-vote-for-do/
+8|Donald Trump Says He’d “Absolutely” Require Muslims to Register|Real|http://www.nytimes.com/politics/first-draft/2015/11/20/donald-trump-says-hed-absolutely-require-muslims-to-register/?_r=0
+9|Trump: “I Will Protect Our LGBTQ Citizens”|Real|http://www.nbcnews.com/card/trump-i-will-protect-our-lgbtq-citizens-n614621
+10|I Ran the CIA. Now I’m Endorsing Hillary Clinton|Real|http://www.nytimes.com/2016/08/05/opinion/campaign-stops/i-ran-the-cia-now-im-endorsing-hillary-clinton.html
+11|Donald Trump on Refusing Presidential Salary: “I’m Not Taking It”|Real|http://www.cbsnews.com/news/did-donald-trump-say-hed-refuse-to-take-a-salary-as-president/
