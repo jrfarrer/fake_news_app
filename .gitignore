@@ -37,4 +37,4 @@ vignettes/*.pdf
 /data/
 
 
-credentials.R
+#credentials.R
